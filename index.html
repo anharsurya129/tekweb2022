@@ -88,10 +88,8 @@
             <div class="kolom">
                 <h2>{{item.title}}</h2>
                 <p>{{item.author}}</p>
-                <p class="deskripsi">{{item.content}}</p>
-                <p>{{Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium totam assumenda dolor ad dolorum quidem, fuga saepe omnis voluptas eum?</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium totam assumenda dolor ad dolorum quidem, fuga saepe omnis voluptas eum?}}</p>
-                <p><a :href="'./read.html?article='+item.markdown" class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+                <p class="deskripsi">{{item.content}}</p>                
+                <p><a :href="'./read.html?article='+item.markdown" class="tbl-biru">Baca lebih lanjut</a></p>
             </div>
             <img style="float: right;" v-bind:src="item.thumbnail">
         </section>
