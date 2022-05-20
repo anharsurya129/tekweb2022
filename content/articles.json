@@ -1,10 +1,9 @@
 [
     {
-      "ID": "1",
-      "title": "JOGJA DARURAT SAMPAH",
+      "title": "Penyebab Panas di Indonesia",
       "author": "Oleh: Anhar Suryadi",
-      "tumbhnail": "https://raw.githubusercontent.com/Habibaditiya21/tekweb2022/master/img/Artikel01.jpg",
-      "content": "Untukmu yang pernah datang dan mengubah segala rencana.",
-      "markdown": "article_1.md"
+      "tumbhnail": "https://raw.githubusercontent.com/anharsurya129/tekweb2022/master/img/tpajogja.jpg",
+      "content": "Baru-baru ini indonesia mengalami suhu panas yang tidak biasanya..",
+      "markdown": "artikel.md"
     }
 ]
