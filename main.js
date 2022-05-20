@@ -6,7 +6,7 @@ Vue.createApp({
           nama: "Anhar Suryadi",
           kelas: "2011016061 | Sistem Informasi | Universitas Ahmad Dahlan",
           quotes: "Semua dimulai dari mencoba, kita tidak pernah merasakan keberhasilan dan kesuksesan tanpai pernah memulai dan tanpa berani mencoba.",
-          imageprofile: "./img/anhars.jpeg",
+          imageprofile: "https://raw.githubusercontent.com/anharsurya129/tekweb2022/master/img/anhars.jpeg",
         },
         social: {
           ig: {
