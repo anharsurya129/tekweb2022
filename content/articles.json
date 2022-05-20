@@ -2,7 +2,7 @@
     {
       "title": "CUACA PANAS DI INDONESIA",
       "author": "Oleh: Anhar Suryadi",
-      "thumbnail": "./img/artikel.jpeg",
+      "thumbnail": "https://raw.githubusercontent.com/anharsurya129/tekweb2022/master/img/artikel.jpg",
       "content": "Beberapa hari ini, cuaca di indonesia tidak seperti biasanya...",
       "markdown": "artikel.md"
     }
