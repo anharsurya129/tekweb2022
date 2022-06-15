@@ -1,0 +1,26 @@
+[
+    { 
+      "ID": "1",
+      "title": "Sains tak sesulit yang dipikirkan",
+      "author": "Oleh : Anhar Suryadi",
+      "thumbnail":"./article/sains.jpg",
+      "markdown": "artikel01.md",
+      "content": "Teknologi hadir dan menjadi bagian hidup manusia dewasa ini."
+    },
+    {
+      "ID": "2",
+      "title": "Refresh otak dengan rubik",
+      "author": "Oleh : Anhar Suryadi",
+      "thumbnail": "./article/rubik.jpg",
+      "markdown": "artikel02.md",
+      "content": "Saat ini, banyak pabrik dan perusahaan otomotif di Indonesia ini"
+    },
+    {
+      "ID": "3",
+      "title": "Dunia atau Akhirat",
+      "author": "Oleh : Anhar Suryadi",
+      "thumbnail": "./article/jepang.jpg",
+      "markdown": "artikel03.md",
+      "content": "Indonesia adalah salah satu produsen dan eksportir batubara terbesar di dunia"
+    }
+]
