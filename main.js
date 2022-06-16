@@ -7,7 +7,7 @@ Vue.createApp({
             nama: "Anhar Suryadi",
             kelas: "2011016061 | Information System | Sains and Technology",
             univ : "Universitas Ahmad Dahlan (UAD)",
-            quotes: "Semua dimulai dari mencoba, kita tidak pernah merasakan keberhasilan dan kesuksesan tanpai pernah memulai dan tanpa berani mencoba.",
+            quotes: "be yourself, then u will find real happiness",
             imageprofile: "./img/anharpubg.jpeg",
         },
         social: {
